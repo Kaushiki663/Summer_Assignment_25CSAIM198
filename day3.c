@@ -18,4 +18,3 @@ int main()
         printf("%d is a prime number.", n);
     else
         printf("%d is not a prime number.", n);
-}
